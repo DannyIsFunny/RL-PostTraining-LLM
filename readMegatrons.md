@@ -14,3 +14,13 @@
 - 4、 看API 体系: https://docs.nvidia.com/megatron-core/developer-guide/latest/api-guide/index.html。 里面的`API`不多，这才是使用`megatron`的核心， 得背的滚瓜烂熟才能为我所用
 
 ##### D： 我得详细得研究一下他的API体系，都有哪些API
+
+
+## 20250901
+
+
+- 链接: [megatron项目](https://github.com/NVIDIA/Megatron-LM)、[项目文档](https://docs.nvidia.com/megatron-core/developer-guide/latest/user-guide/index.html#quick-start) 、[API文档](https://docs.nvidia.com/megatron-core/developer-guide/latest/api-guide/index.html)
+
+
+##### Object： 今天学会所有的 API 
+
